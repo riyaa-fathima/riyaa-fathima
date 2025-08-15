@@ -1,16 +1,12 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Riya Fathima</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyaa-fathima" alt="riyaa-fathima" /></a> </p>
 
 - 🔭 I’m currently working on **A mini project to practice Javascript and UI design**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,React,Git and GitHub**
+- 🌱 I’m currently learning **HTML,CSS,Javascript,React,Bootstrap,SASS,Git and GitHub**
 
 - 🤝 I’m looking for help with **React best practices**
-
-- 💬 Ask me about **HTML,CSS,Javascript,basic GIt and Github,React beginer topics**
 
 - 📫 How to reach me **riyafathima9889@gmail.com**
 
