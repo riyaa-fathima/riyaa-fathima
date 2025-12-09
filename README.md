@@ -1,12 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Riya Fathima</h1>
-
-
-- 🔭 I’m currently working on **A mini project to practice Javascript and UI design**
-
-- 🌱 I’m currently learning **HTML,CSS,Javascript,React,Bootstrap,SASS,Git and GitHub**
-
-- 🤝 I’m looking for help with **React best practices**
+## Hi there 
+<h1 align="center">Hi  I'm Riya Fathima</h1>
 
 - 📫 How to reach me **riyafathima9889@gmail.com**
 
