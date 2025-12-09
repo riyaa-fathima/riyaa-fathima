@@ -1,5 +1,5 @@
-## Hi there 
-<h1 align="center">Hi  I'm Riya Fathima</h1>
+## Hi
+<h1 align="center"> I'm Riya Fathima</h1>
 
 - 📫 How to reach me **riyafathima9889@gmail.com**
 
